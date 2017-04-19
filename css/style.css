@@ -1,0 +1,16 @@
+#header{
+	background-color: #3ab5e6;
+	height: 200px;
+}
+#main{
+	background-color: #003677;
+	height: 300px;
+}
+#sub{
+	background-color: #29abe2;
+	height: 300px;
+}
+#footer{
+	background-color: #dfd;
+	height: 300px;
+}
